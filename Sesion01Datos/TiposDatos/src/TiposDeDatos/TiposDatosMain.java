@@ -23,10 +23,10 @@ public class TiposDatosMain {
         boolean varBool = true;
         boolean comparacion = 2 < 1;
 
-        // char: un sólo caracter entre '' (2 bytes)
+        // char: un sólo caracter entre comillas simples ('') (2 bytes)
         char varChar = 'e';
 
-        // String: cadena de caracteres entre ""
+        // String: cadena de caracteres entre comillas dobles ("")
         String varString = "Hola mundo desde Java";
 
         System.out.println("Los datos de tipo entero son: byte (" + varByte + "), short (" + varShort + "), int (" + varInt + ") y long (" + varLong+")");
