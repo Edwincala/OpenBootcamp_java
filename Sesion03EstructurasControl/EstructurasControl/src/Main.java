@@ -3,12 +3,12 @@ public class Main {
         String[] nombres = {"Felipe", "Juan", "Camila", "Diana", "Luisa"};
         StringBuilder cadena = new StringBuilder();
 
-        for (String nombre : nombres) {
+        for (int i = 0; i < nombres.length; i++ ) {
 
-            if (nombre.equals(nombres[nombres.length-1])) {
-                cadena.append(nombre);
+            if (i == nombres.length - 1) {
+                cadena.append(nombres[i]);
             } else {
-                cadena.append(nombre).append(", ");
+                cadena.append(nombres[i]).append(", ");
             }
         }
         System.out.println(cadena);
