@@ -1,0 +1,25 @@
+{
+°Celsius 25.0=
+	°Fahrenheit: 77.0,
+	Kelvin: 298.15,
+	Rankine: 536.67, 
+°Celsius 35.0=
+	°Fahrenheit: 95.0,
+	Kelvin: 308.15,
+	Rankine: 554.67, 
+°Celsius 10.0=
+	°Fahrenheit: 50.0,
+	Kelvin: 283.15,
+	Rankine: 509.67, 
+°Celsius 28.5=
+	°Fahrenheit: 83.3,
+	Kelvin: 301.65,
+	Rankine: 542.97, 
+°Celsius 100.0=
+	°Fahrenheit: 212.0,
+	Kelvin: 373.15,
+	Rankine: 671.67, 
+°Celsius 34.7=
+	°Fahrenheit: 94.46001,
+	Kelvin: 307.85,
+	Rankine: 554.13}
