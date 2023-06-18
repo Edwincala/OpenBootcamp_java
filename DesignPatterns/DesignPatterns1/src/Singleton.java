@@ -13,4 +13,5 @@ public class Singleton {
     public void singletonMessage(){
         System.out.println("Esta es la instancia de la clase Singleton, ubicada en el espacio de memoria " + singleton);
     }
+
 }
